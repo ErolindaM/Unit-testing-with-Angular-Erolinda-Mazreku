@@ -40,8 +40,10 @@ export class HomeComponent {
 
   public getUserList(): void {
     this.userService.getUsers().subscribe(users => {
+      if (users) {
       this.userList = users;
       this.originalUserList = users;
-    })
+      }
+    });
   }
 }

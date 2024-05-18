@@ -27,4 +27,5 @@ export class ContactComponent {
   public submitForm() {
     console.log('Form submitted:', this.contactForm.value);
   }
+  
 }

@@ -11,4 +11,5 @@ export class ButtonComponent {
   @Input() variant: 'primary' | 'secondary' | 'success'  | 'danger' = 'primary';
   @Input() type: 'button' | 'submit' = 'button';
   @Input() disabled: boolean = false;
+
 }
