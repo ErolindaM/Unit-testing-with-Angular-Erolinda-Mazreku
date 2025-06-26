@@ -1,4 +1,16 @@
-# MksUnitTestBoilerplate
+# About this project
+
+This project demonstrates the use of unit testing in Angular applications using Jasmine and Karma. It includes examples of writing and running tests for Angular components, services, and pipes, helping ensure application stability and reliability.
+
+Key features:
+  Unit tests for components, services, and custom pipes
+  Test cases using Jasmine syntax
+  Integration with Karma test runner
+  Focus on best practices in Angular testing
+
+The project serves as a practical guide for understanding the structure and execution of unit tests in Angular environments. It is especially useful for developers looking to strengthen their testing skills and build more robust Angular applications.
+
+## MksUnitTestBoilerplate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
 
